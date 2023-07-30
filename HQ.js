@@ -1,7 +1,7 @@
 
 var to = 'Em Bé Của Anh';
 var gift_url = 'https://www.youtube.com/watch?v=n3qw7lZzbkM';
-var gift_image_url = 'Bánh.PNG';
+var gift_image_url = 'Bánh.png';
 
 
 
